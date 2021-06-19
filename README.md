@@ -1,8 +1,6 @@
 # Minimalist Space Shooter Game
-Minimalist Space Shooter game made in love2D (NOT FINISHED)
 
 ![alt text](https://i.imgur.com/icKFK9h.gif)
 
-
-
-
+Made in Love2D 
+https://love2d.org/ 
